@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Kangwei Feng.My Major is Software Engineering.I like to play video game and algorithm contest, but no very good at both.
+(AS you can see, i was poor at english too...)
 <!--
 **DD996/DD996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
